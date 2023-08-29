@@ -1,0 +1,51 @@
+action_14024_intent_39950,Greetings
+action_3898_intent_14987,Functionality
+action_16649_intent_19656,Time
+action_46733_intent_40577,Date
+action_29383_intent_6364,Weather
+action_18745_intent_28589,Day
+action_23600_intent_17622,News
+action_24288_intent_40415,News Topic
+action_2877_intent_34691,Song
+action_3293_intent_49781,Song Request
+action_9274_intent_47295,Playlist
+action_15116_intent_12878,Playlist Request
+action_23706_intent_14853,Pause
+action_1625_intent_19422,Play
+action_12216_intent_30565,Play Liked Songs
+action_13833_intent_13770,Next Song
+action_40217_intent_43963,Previous Song
+action_27995_intent_46177,Volume Up
+action_18809_intent_18309,Volume Down
+action_49032_intent_45855,Volume Set
+action_25581_intent_35103,Add New Face
+action_47594_intent_30967,Positive Behaviours
+action_48497_intent_3527,Greet By Name
+action_35544_intent_33738,Podcast Request
+action_16356_intent_33422,Podcast
+action_41798_intent_9675,Joke
+action_5238_intent_27243,Podcast Suggestion
+action_26771_intent_31447,Podcast Genre
+action_6489_intent_12439,Meal Search
+action_1167_intent_47502,Meal Recommend
+action_15866_intent_30690,Podcast Feedback Fav
+action_33828_intent_47551,Podcast Feedback Love
+action_38589_intent_46335,Podcast Feedback Like
+action_13778_intent_34730,Podcast Feedback Dislike
+action_10353_intent_28071,Podcast Feedback Strong Dislike
+action_9784_intent_4926,Podcast Feedback Hate
+action_8397_intent_25909,Mental Support
+action_26053_intent_2680,I Love You
+action_24795_intent_20904,Calendar Event
+action_45821_intent_17901,Sit
+action_16159_intent_44339,Stand
+action_8307_intent_21998,Light On
+action_4492_intent_49679,Light Off
+action_36833_intent_43080,Track
+action_4672_intent_9604,Stop Track
+action_19530_intent_33007,Update Me
+action_40882_intent_29193,Fetch Events
+action_14500_intent_49161,Artist
+action_37046_intent_48089,Artist Request
+action_10548_intent_4575,Album
+action_35856_intent_39595,Album Request
